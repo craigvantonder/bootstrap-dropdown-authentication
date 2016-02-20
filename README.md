@@ -3,7 +3,7 @@ Bootstrap Dropdown Authentication
 
 A simple navigation dropdown login / registration form for [Boostrap](https://getbootstrap.com/" title="See the Bootstrap website "See the Bootstrap website").
 
-View the [demo](https://craigvantonder.github.io/bootstrap-dropdown-authentication/ "See the demo on github pages").
+View the [demo](https://craigvantonder.github.io/bootstrap-dropdown-authentication/ "See the demo on github pages") on Github pages.
 
 Click the "Sign Up" link in the acount dropdown
 The form changes to "Sign In".
