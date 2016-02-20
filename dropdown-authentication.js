@@ -13,7 +13,7 @@ $(document).ready(function() {
   // Form submission button
   selector.buttonId = '#authButton';
   // Link used to switch between sign in / up states
-  selector.element = '#linkSignselector';
+  selector.element = '#linkSign';
   // Tag wrapping value of the element above
   selector.elementInner = '#linkSignselector strong';
 
