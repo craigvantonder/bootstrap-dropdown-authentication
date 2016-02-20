@@ -13,9 +13,9 @@ $(document).ready(function() {
   // Form submission button
   selector.buttonId = '#authButton';
   // Link used to switch between sign in / up states
-  selector.element = '#linkSign';
+  selector.element = '#linkSignSwitcher';
   // Tag wrapping value of the element above
-  selector.elementInner = '#linkSignselector strong';
+  selector.elementInner = '#linkSignSwitcher strong';
 
   // When the signin/up link was clicked
   $(selector.element).click(function(e) {
