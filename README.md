@@ -8,6 +8,10 @@ View the [demo](https://craigvantonder.github.io/bootstrap-dropdown-authenticati
 Click the "Sign Up" link in the acount dropdown
 The form changes to "Sign In".
 
+I'd like to update this to:
+
+- Include validation on the form.
+
 Modified from [Fancy navbar login / sign in form](http://bootsnipp.com/snippets/featured/fancy-navbar-login-sign-in-form "See abudayahs&rsquo; snippet on bootsnipp.com").
 
 View the jQuery used [here](https://craigvantonder.github.io/bootstrap-dropdown-authentication/dropdown-authentication.js "See the jQuery used for this").
