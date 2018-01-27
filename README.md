@@ -15,3 +15,5 @@ I'd like to update this to:
 Modified from [Fancy navbar login / sign in form](http://bootsnipp.com/snippets/featured/fancy-navbar-login-sign-in-form "See abudayahs&rsquo; snippet on bootsnipp.com").
 
 View the jQuery used [here](https://craigvantonder.github.io/bootstrap-dropdown-authentication/dropdown-authentication.js "See the jQuery used for this").
+
+License: MIT
